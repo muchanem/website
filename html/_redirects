@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://markmuchane.netlify.com/* https://markmuchane.io/:splat 301!
